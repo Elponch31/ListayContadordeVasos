@@ -29,6 +29,7 @@ fun WellnessTaskItem(
     Row(
         modifier = modifier, verticalAlignment = Alignment.CenterVertically
     ) {
+
         Text(
             modifier = Modifier
                 .weight(1f)
